@@ -6,7 +6,7 @@ SvelteBeatsReact - 5
 ThisIsJS - 6
 YouFoundMe - 7
 coolcoolcool - 8
-2020 sucked - 9
+2020sucked - 9
 listenToTheBlackKeys - 10
 a11yComesFirst - 11
 iLoveWebDev - 12
